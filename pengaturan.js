@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Fotwis Graduation",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyAMGGx3k4-T4qHv8u8o6ZmTArrlTDvL6rs",
+    whatsappAdmin: "6282315967121" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
